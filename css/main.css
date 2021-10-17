@@ -44,7 +44,7 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: hotpink;
+  color: rgb(228, 143, 122);
   text-decoration: none;
 }
 
@@ -138,7 +138,7 @@ header {
 
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lora', serif;
+  font-family: 'Shirkhand', regular;
   font-weight:500;
   margin:0;
   padding:0;
@@ -171,7 +171,7 @@ h5 {
 
 
 p{
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Montserrat', regular;
   font-size: 1rem;
   line-height: 1.5;
   padding:0;
@@ -182,7 +182,7 @@ p{
 
 .pull-quote {
   font-size: 2.25rem;
-  font-family: 'Lora', serif;
+  font-family: 'Shirkhand', regular;
   font-style: italic;
   font-weight:400;  
   line-height: 1.5;
