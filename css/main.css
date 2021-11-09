@@ -11,9 +11,7 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
-   <style>
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Shrikhand&display=swap');
-/style>
+   @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Shrikhand&display=swap');
 
 html {
   color: #222;
