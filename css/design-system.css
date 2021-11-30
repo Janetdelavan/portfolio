@@ -226,7 +226,7 @@ p, li {
 .secondary-hue {
   display: flex;
   padding:1.5rem 1rem;
-  color:#ffffff;
+  color:#A6A15E;
   font-family: 'Montserrat', sans-serif;}
 
 .secondary-hue > div {
@@ -236,7 +236,7 @@ p, li {
 .neutral-hue {
   display: flex;
   padding:1.5rem 1rem;
-  color:#ffffff;
+  color:#EDE4D4;
   font-family: 'Montserrat', sans-serif;}
 
 .neutral-hue > div {
@@ -246,7 +246,7 @@ p, li {
 .accent-hue {
   display: flex;
   padding:.5rem 1rem;
-  color:#ffffff;
+  color:#485d32;
   font-family: 'Montserrat', sans-serif;}
 
 .accent-hue > div {
