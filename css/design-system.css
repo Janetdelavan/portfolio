@@ -86,7 +86,7 @@ section {
 }
 
 .card-image {
-    background-color: #E6ECF2;
+    background-color: #EFC8BE;
     padding:1rem;
 }
 .card-image > img {
@@ -94,7 +94,7 @@ section {
 }
 
 .profile-card {
-    background-color: #434E59;
+    background-color: #485d32;
     padding:1rem;
 }
 .profile-card > img {
@@ -408,11 +408,11 @@ input[type=text] {
 }
 
 input:checked + .slider {
-  background-color: #F2B138;
+  background-color: #DD8B77;
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 1px #F2B138;
+  box-shadow: 0 0 1px #DD8B77;
 }
 
 input:checked + .slider:before {
@@ -501,7 +501,7 @@ hr {
 
 /* Set a style for all buttons */
 button {
-  background-color: #CF9730;
+  background-color: #DD8B77;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
