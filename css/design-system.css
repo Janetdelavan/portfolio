@@ -6,7 +6,7 @@
 html {
   font-size: 1rem;
   font-family: 'Montserrat', sans-serif;
-    background-color: #faf3f0;
+    background-color: #F3EBE2;
 }
 
 body {
@@ -226,7 +226,7 @@ p, li {
 .secondary-hue {
   display: flex;
   padding:1.5rem 1rem;
-  color:#A6A15E;
+  color:white;
   font-family: 'Montserrat', sans-serif;}
 
 .secondary-hue > div {
@@ -236,7 +236,7 @@ p, li {
 .neutral-hue {
   display: flex;
   padding:1.5rem 1rem;
-  color:#EDE4D4;
+  color: white;
   font-family: 'Montserrat', sans-serif;}
 
 .neutral-hue > div {
@@ -246,7 +246,7 @@ p, li {
 .accent-hue {
   display: flex;
   padding:.5rem 1rem;
-  color:#485d32;
+  color:white;
   font-family: 'Montserrat', sans-serif;}
 
 .accent-hue > div {
