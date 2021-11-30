@@ -6,7 +6,7 @@
 html {
   font-size: 1rem;
   font-family: 'Montserrat', sans-serif;
-    background-color: white;
+    background-color: #faf3f0;
 }
 
 body {
@@ -216,7 +216,7 @@ p, li {
 .primary-hue {
   display: flex;
   padding:3rem 1rem;
-  color:#8B412F;
+  color:white;
   font-family: 'Montserrat', sans-serif;}
 
 .primary-hue > div {
