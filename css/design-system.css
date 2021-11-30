@@ -221,7 +221,7 @@ p, li {
   display: flex;
   padding:3rem 1rem;
   color:#ffffff;
-  font-family: 'Open Sans', sans-serif;}
+  font-family: 'Montserrat', sans-serif;}
 
 .primary-hue > div {
   width:33%;
@@ -231,7 +231,7 @@ p, li {
   display: flex;
   padding:1.5rem 1rem;
   color:#ffffff;
-  font-family: 'Open Sans', sans-serif;}
+  font-family: 'Montserrat', sans-serif;}
 
 .secondary-hue > div {
   width:33%;
@@ -241,7 +241,7 @@ p, li {
   display: flex;
   padding:1.5rem 1rem;
   color:#ffffff;
-  font-family: 'Open Sans', sans-serif;}
+  font-family: 'Montserrat', sans-serif;}
 
 .neutral-hue > div {
   width:33%;
@@ -251,7 +251,7 @@ p, li {
   display: flex;
   padding:.5rem 1rem;
   color:#ffffff;
-  font-family: 'Open Sans', sans-serif;}
+  font-family: 'Montserrat', sans-serif;}
 
 .accent-hue > div {
   width:33%;
@@ -336,7 +336,7 @@ input[type=text] {
   color: white;
   padding: 16px;
   font-size: 16px;
-  font-family: 'Open Sans', sans-serif;  border: none;
+  font-family: 'Montserrat', sans-serif;  border: none;
   cursor: pointer;
 }
 
@@ -440,7 +440,7 @@ input:checked + .slider:before {
 
 label {
     display: block;
-    font: 1rem 'Open Sans', sans-serif;
+    font: 1rem 'Montserrat', sans-serif;
 }
 
 input {
