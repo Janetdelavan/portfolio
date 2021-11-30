@@ -512,6 +512,7 @@ button {
   border: none;
   cursor: pointer;
   opacity: 0.9;
+  font-family: 'Montserrat', sans-serif;
 }
 
 button:hover {
