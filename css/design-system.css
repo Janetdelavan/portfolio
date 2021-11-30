@@ -287,13 +287,13 @@ p, li {
 .button2 {
   background-color: white; 
   color: #A6A15E; 
-  border: 2px solid #8B412F;
+  border: 2px solid #A6A15E;
 }
 
 .button2:hover {
   background-color: white; 
   color: #485d32; 
-  border: 2px solid #DD8B77;
+  border: 2px solid #485d32;
 }
 
 .button3 {
@@ -441,7 +441,7 @@ label {
 
 input {
     margin: .4rem 0;
-    border: 1px solid #F2B138;
+    border: 1px solid #DD8B77;
 }
 
 .pointer{
@@ -454,7 +454,7 @@ input {
 .loader {
   border: 16px solid #ccc;
   border-radius: 50%;
-  border-top: 16px solid #F2B138;
+  border-top: 16px solid #DD8B77;
   width: 100px;
   height: 100px;
   -webkit-animation: spin 2s linear infinite; /* Safari */
