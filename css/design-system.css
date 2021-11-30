@@ -260,7 +260,7 @@ p, li {
 /* -- buttons -- */
 
 .button {
-  background-color: #CF9730; 
+  background-color: #DD8B77; 
   border: none;
   color: white;
   padding: 8px 32px;
@@ -275,36 +275,36 @@ p, li {
 }
 
 .button1 {
-  background-color: #CF9730; 
+  background-color: #DD8B77; 
   color: white; 
 }
 
 .button1:hover {
-  background-color: #A66312;
+  background-color: #8B412F;
   color: white;
 }
 
 .button2 {
   background-color: white; 
-  color: #A66312; 
-  border: 2px solid #736048;
+  color: #A6A15E; 
+  border: 2px solid #8B412F;
 }
 
 .button2:hover {
   background-color: white; 
-  color: #A66312; 
-  border: 2px solid #F2B138;
+  color: #485d32; 
+  border: 2px solid #DD8B77;
 }
 
 .button3 {
-  background-color: #736048; 
+  background-color: #A6A15E; 
   color: white; 
   opacity: 0.6;
   cursor: not-allowed;
 }
 
 .button3:hover {
-  background-color: #736048; 
+  background-color: #485d32; 
   color: white; 
   opacity: 0.6;
   cursor: not-allowed;
@@ -317,7 +317,7 @@ input[type=text] {
   padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
-  border: 1px solid #F2B138;
+  border: 1px solid #DD8B77;
   border-radius: 2px;
   color: #A66312; 
 
@@ -327,7 +327,7 @@ input[type=text] {
 
 
 .dropbtn {
-  background-color: #736048; 
+  background-color: #A6A15E; 
   box-shadow: 3px 3px 2px 1px rgba(22, 22, 22, .4);
   color: white;
   padding: 16px;
