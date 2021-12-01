@@ -486,7 +486,7 @@ input[type=text], input[type=password] {
   margin: 5px 0 22px 0;
   display: inline-block;
   border: none;
-  background: #A6A15E;
+  background: white;
 }
 
 input[type=text]:focus, input[type=password]:focus {
