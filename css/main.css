@@ -64,7 +64,7 @@ main {
   grid-auto-rows:min-content;
   grid-gap:2rem;
   padding-bottom:2rem;
-  border-bottom:1px solid #dadada;
+  border-bottom:1px solid #ffffff;
 }
 
 header {
