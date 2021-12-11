@@ -188,7 +188,12 @@ p{
   line-height: 1.5;
   padding:2rem;
 }
-
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
 
 /*
  * Remove text-shadow in selection highlight:
