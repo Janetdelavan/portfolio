@@ -94,7 +94,7 @@ header {
   grid-auto-rows:min-content;
   grid-gap:2rem;
   padding-bottom:2rem;
-  border-bottom:1px solid #dadada;
+  border-bottom:1px solid white;
 }
 
 .project-block_section-head {
@@ -218,7 +218,7 @@ hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid white;
   margin: 1em 0;
   padding: 0;
 }
@@ -410,7 +410,7 @@ textarea {
 
   pre,
   blockquote {
-    border: 1px solid #999;
+    border: 1px solid white;
     page-break-inside: avoid;
   }
 
